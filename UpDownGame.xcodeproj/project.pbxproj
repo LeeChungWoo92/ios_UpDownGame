@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1027FAC42816D5830065B9AD /* CreaditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1027FAC32816D5830065B9AD /* CreaditViewController.swift */; };
 		8695692928122F2400E6BEC9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8695692828122F2400E6BEC9 /* AppDelegate.swift */; };
 		8695692B28122F2400E6BEC9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8695692A28122F2400E6BEC9 /* SceneDelegate.swift */; };
 		8695692D28122F2400E6BEC9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8695692C28122F2400E6BEC9 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1027FAC32816D5830065B9AD /* CreaditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreaditViewController.swift; sourceTree = "<group>"; };
 		8695692528122F2400E6BEC9 /* UpDownGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UpDownGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8695692828122F2400E6BEC9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8695692A28122F2400E6BEC9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				8695692828122F2400E6BEC9 /* AppDelegate.swift */,
 				8695692A28122F2400E6BEC9 /* SceneDelegate.swift */,
 				8695692C28122F2400E6BEC9 /* ViewController.swift */,
+				1027FAC32816D5830065B9AD /* CreaditViewController.swift */,
 				8695692E28122F2400E6BEC9 /* Main.storyboard */,
 				8695693128122F2800E6BEC9 /* Assets.xcassets */,
 				8695693328122F2800E6BEC9 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8695692D28122F2400E6BEC9 /* ViewController.swift in Sources */,
+				1027FAC42816D5830065B9AD /* CreaditViewController.swift in Sources */,
 				8695692928122F2400E6BEC9 /* AppDelegate.swift in Sources */,
 				8695692B28122F2400E6BEC9 /* SceneDelegate.swift in Sources */,
 			);
